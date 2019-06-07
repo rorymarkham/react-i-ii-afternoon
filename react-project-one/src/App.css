@@ -1,0 +1,54 @@
+.app-container{
+  width: 100vh;
+  height: 100vh;
+  background: #212121;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* .body {
+  background: rgb(35, 35, 35);
+  height: 100vh;
+  
+}
+
+.header {
+  height: 12vh;
+  background: rgb(53, 165, 218);
+  display: flex;
+  align-items: center; 
+}
+
+.header h1 {
+  margin: 2em;
+  text-transform: capitalize;
+  font-size: 25px
+}
+
+.container {
+  height: 400px;
+  width: 700px;
+  background: whitesmoke;
+  display: flex;
+  margin: auto;
+  margin-top: 9em; 
+}
+
+.name {
+  margin: 2em;
+  text-decoration-line: underline;
+  text-decoration-color: rgb(53, 165, 218);
+}
+ */
